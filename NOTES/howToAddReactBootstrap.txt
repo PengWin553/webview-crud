@@ -1,0 +1,3 @@
+Type this in the terminal:
+
+npm i bootstrap react-bootstrap
